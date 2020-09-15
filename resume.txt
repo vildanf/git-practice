@@ -1,2 +1,4 @@
 name:Kunka
 occupation:Admiral
+objective: to be admired and remembered for good things
+preferred rate:emough money
